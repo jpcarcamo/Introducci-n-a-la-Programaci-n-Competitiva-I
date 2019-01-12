@@ -18,6 +18,8 @@ fill(0)           para relleno negro
 line()            para crear una linea entre dos puntos
 ellipse()         para elipse
 rect()            para rectangulo
+rectMode(CENTER)  para centrar el rectangulo
+rectMode(CORNERS) para dibujar de esquina a esquina
 
 //Variables del Mouse:
 mouseX            posición del mouse X
