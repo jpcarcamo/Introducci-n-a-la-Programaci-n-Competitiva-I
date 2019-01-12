@@ -1,0 +1,34 @@
+
+// Apuntes JAVA Processing
+
+//Funciones principales:
+
+//Popiedades de la ventana:
+width             palabra reservada para anchura de la ventana
+height            palabra reservada para altura de la ventana
+fullScreen()      para pantalla completa
+size(400,400)     para pantalla de x por y pixeles
+background(255)   para fondo blanco
+println()         para imprimir en la consola
+
+stroke(0)         para bode de linea negro
+fill(0)           para relleno negro
+
+//Formas y figuras:
+line()            para crear una linea entre dos puntos
+ellipse()         para elipse
+rect()            para rectangulo
+
+//Variables del Mouse:
+mouseX            posición del mouse X
+mouseY            posición del mouse Y
+pmouseX           posición previa del mouse X
+pmouseY           posición previa del mouse Y
+mousePressed      booleando que indica si se está presionando el mouse
+mouseButton       boton del mouse que se está presionando
+
+//Variables del Teclado:
+key               última tecla presionada
+keyCode           código numérico de la tecla presionada
+keyPressed        booleano que indica si se está presionando una tecla
+
